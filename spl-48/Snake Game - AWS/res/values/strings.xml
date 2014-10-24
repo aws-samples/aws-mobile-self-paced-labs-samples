@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Snake Game - AWS</string>
+    <string name="activity_splash_title_line_one">Snake Game</string>
+    <string name="activity_splash_title_line_two">Downloading latest assets..</string>
+    <string name="activity_splash_title_line_three"> </string>
+    <string name="activity_game_over_title">Game Over</string>
+   <string name="activity_gameover_new_game_button_text">New Game</string>
+   <string name="activity_gameover_resume_game_button_text">Sync Game State</string>
+   <string name="activity_gameover_upload_button_text">Upload Screen to S3</string>
+    <string name="activity_upload">Uploading to S3</string>
+    
+    <string name="activity_login_title_line_one">Welcome to the Snake Game</string>
+    <string name="activity_login_title_line_two">Login with:</string>
+   
+    <string name="amzn_api_key"></string>
+    <string name="facebook_app_id"></string>
+    <string name="google_client_id"></string>
+
+</resources>
