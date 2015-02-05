@@ -1,0 +1,17 @@
+Snake Game - Android Code Sample for AWS
+
+Copyright 2014 Amazon.com, Inc. or its affiliates. All Rights Reserved.�
+
+Licensed under the�Apache License Version 2.0
+
+See the License for the specific language governing permissions and limitations under the License.
+
+
+**********************
+THIRD PARTY COMPONENTS
+**********************
+
+This software includes third party software subject to the following copyrights:
+- Facebook SDK - Copyright � 2002-2014 Facebook. All Rights Reserved. (Apache License Version 2.0, January 2004)
+- Google+ Signin - Copyright � 2002-2014 Google, Inc. All Rights Reserved. (Apache License Version 2.0, January 2004)
+- Unzip files in Android - Copyright � 2002-2014 xil3 Media. All Rights Reserved. (Apache License Version 2.0, January 2004)
